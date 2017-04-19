@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "300293958343",
+    "firebase_url": "https://registration-1b005.firebaseio.com",
+    "project_id": "registration-1b005",
+    "storage_bucket": "registration-1b005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300293958343:android:a9d26254da5de13f",
+        "android_client_info": {
+          "package_name": "com.example.aaditya.registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300293958343-nuk042i5kgms9qi06emgk1bsiucse4tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSqWg_P7eB-hIE75-1IYf_Jt2b_KScng8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
